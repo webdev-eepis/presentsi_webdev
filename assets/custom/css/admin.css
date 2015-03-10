@@ -1,0 +1,43 @@
+.container_login_admin{
+	background-color: #444;
+	padding: 20px;
+	border: solid 2px #ccc;
+	border-radius: 5px;
+	width: 325px;	
+	position: absolute;
+	left:50%;
+	top:50%;
+	margin-top: -100px;
+	margin-left: -170px;
+}
+
+input[type="text"], input[type="password"]{
+	padding: 10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+
+.input1{
+	background-color: #333;
+	color:#ccc;
+	border:solid 1px #333;
+}
+.input-full{
+	width: 100%;
+}
+
+
+.btn{
+	cursor: pointer;
+	padding:10px;
+}
+.btn-full{
+	width: 100%;
+}
+.btn_login{
+	font-weight: bold;
+	margin-top: 10px;
+}
