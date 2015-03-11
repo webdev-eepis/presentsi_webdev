@@ -2,7 +2,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT
+ * APPLICATION ENVIRONMENT COBA
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
