@@ -15,7 +15,7 @@
  *     testing
  *     production
  *
- * NOTE: If you change these, also change the error_reporting() code below
+ * NOTE: If you change these, also change the error_reporting() code below...
  *
  */
 	date_default_timezone_set('Asia/Jakarta');
